@@ -1,0 +1,10 @@
+shiny
+requests
+streamlit
+jupyter
+plotly
+pandas
+dash
+bokeh
+numpy
+duckdb
